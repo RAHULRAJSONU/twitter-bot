@@ -1,0 +1,26 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "A personal twitter handler, that will monitor and manage your tweet,like,follow and retweet on behalf of you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAHULRAJSONU/twitter-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "node"
+  ],
+  "author": "Rahul Raj",
+  "license": "(ISC OR GPL-3.0)",
+  "bugs": {
+    "url": "https://github.com/RAHULRAJSONU/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/RAHULRAJSONU/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
